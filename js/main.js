@@ -21,9 +21,9 @@ class HeaderFooter {
                 <div class="nav-menu">
                     <a href="./" class="nav-link">Break Box</a>
                     <a href="./#how-to-play" class="nav-link">How to Play</a>
-                    <a href="./brick-log.html" class="nav-link">News</a>
-                    <a href="./brick-contacts.html" class="nav-link">Contacts</a>
-                    <a href="./collect-disclaimer.html" class="nav-link">Disclaimer</a>
+                    <a href="./brick-log.html" class="nav-link">BreakingNews</a>
+                    <a href="./brick-contacts.html" class="nav-link">Contact Box</a>
+                    <a href="./collect-disclaimer.html" class="nav-link">Disclaimer Box</a>
                 </div>
             </nav>
         `;
