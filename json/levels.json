@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Classic Breakout",
+    "description": "Traditional brick-breaking layout with a modern twist. Perfect for beginners!",
+    "difficulty": 2,
+    "features": [
+      "Standard brick patterns",
+      "Basic power-ups",
+      "Progressive difficulty",
+      "Score multipliers"
+    ]
+  },
+  {
+    "name": "Speed Challenge",
+    "description": "Fast-paced levels with moving bricks and time-based objectives.",
+    "difficulty": 4,
+    "features": [
+      "Moving brick patterns",
+      "Time-limited challenges",
+      "Speed power-ups",
+      "Combo bonuses"
+    ]
+  },
+  {
+    "name": "Puzzle Master",
+    "description": "Strategic levels requiring careful planning and precise shots.",
+    "difficulty": 5,
+    "features": [
+      "Complex brick arrangements",
+      "Special block combinations",
+      "Limited ball count",
+      "Hidden bonuses"
+    ]
+  },
+  {
+    "name": "Boss Battles",
+    "description": "Epic encounters with massive brick structures and unique mechanics.",
+    "difficulty": 5,
+    "features": [
+      "Multi-phase battles",
+      "Special boss mechanics",
+      "Unique power-ups",
+      "Epic rewards"
+    ]
+  },
+  {
+    "name": "Endless Mode",
+    "description": "Infinite gameplay with increasing difficulty and random patterns.",
+    "difficulty": 3,
+    "features": [
+      "Random brick generation",
+      "Progressive difficulty",
+      "Global leaderboards",
+      "Daily challenges"
+    ]
+  }
+]

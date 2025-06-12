@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Version 1.2.0 - New Power-ups & Levels",
+    "date": "2024-03-15",
+    "description": "We're excited to announce a major update with new power-ups, levels, and improvements!",
+    "changes": [
+      "Added 5 new power-ups with unique effects",
+      "Introduced 10 new challenging levels",
+      "Improved ball physics and collision detection",
+      "Enhanced visual effects and animations",
+      "Fixed various bugs and performance issues"
+    ]
+  },
+  {
+    "title": "Version 1.1.5 - Performance Update",
+    "date": "2024-03-01",
+    "description": "This update focuses on performance improvements and bug fixes.",
+    "changes": [
+      "Optimized game performance",
+      "Reduced memory usage",
+      "Fixed mobile device compatibility issues",
+      "Improved touch controls",
+      "Added new visual feedback for power-ups"
+    ]
+  },
+  {
+    "title": "Version 1.1.0 - Endless Mode",
+    "date": "2024-02-15",
+    "description": "Introducing the highly requested Endless Mode and new features!",
+    "changes": [
+      "Added new Endless Mode with infinite gameplay",
+      "Implemented global leaderboards",
+      "Added daily challenges",
+      "New special blocks and power-ups",
+      "Improved UI/UX design"
+    ]
+  }
+]

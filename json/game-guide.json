@@ -1,0 +1,34 @@
+{
+  "controls": [
+    {
+      "key": "Left Arrow / A",
+      "action": "Move paddle left"
+    },
+    {
+      "key": "Right Arrow / D",
+      "action": "Move paddle right"
+    },
+    {
+      "key": "Space",
+      "action": "Launch ball / Pause game"
+    },
+    {
+      "key": "ESC",
+      "action": "Open menu"
+    }
+  ],
+  "objectives": [
+    "Break all bricks to complete each level",
+    "Collect power-ups to enhance your abilities",
+    "Achieve high scores by completing levels quickly",
+    "Unlock special blocks for bonus points",
+    "Master different level layouts and challenges"
+  ],
+  "tips": [
+    "Watch for patterns in brick layouts to plan your strategy",
+    "Prioritize breaking special blocks for power-ups",
+    "Keep the ball in play by maintaining paddle control",
+    "Use power-ups strategically based on the level layout",
+    "Practice precision shots to hit hard-to-reach bricks"
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "🎮",
+    "title": "Dynamic Gameplay",
+    "description": "Experience fast-paced brick breaking action with unique power-ups and special abilities."
+  },
+  {
+    "icon": "🏆",
+    "title": "Multiple Levels",
+    "description": "Challenge yourself with 50+ unique levels, each with its own layout and difficulty."
+  },
+  {
+    "icon": "⚡",
+    "title": "Power-ups",
+    "description": "Collect various power-ups to enhance your paddle, ball, and overall gameplay."
+  },
+  {
+    "icon": "🎯",
+    "title": "Precision Controls",
+    "description": "Master the game with responsive and intuitive controls designed for both casual and hardcore players."
+  },
+  {
+    "icon": "🌟",
+    "title": "Achievement System",
+    "description": "Unlock achievements and rewards as you progress through the game."
+  },
+  {
+    "icon": "💎",
+    "title": "Special Blocks",
+    "description": "Discover and break special blocks that trigger unique events and bonuses."
+  }
+]

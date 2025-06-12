@@ -1,0 +1,62 @@
+[
+  {
+    "icon": "🎯",
+    "name": "Precision Paddle",
+    "description": "Increases paddle control and accuracy for better ball direction.",
+    "stats": {
+      "Control": "+25%",
+      "Speed": "+10%",
+      "Cost": "1000 points"
+    }
+  },
+  {
+    "icon": "⚡",
+    "name": "Speed Boost",
+    "description": "Temporarily increases ball speed for faster gameplay.",
+    "stats": {
+      "Duration": "10 seconds",
+      "Speed": "+50%",
+      "Cost": "500 points"
+    }
+  },
+  {
+    "icon": "💥",
+    "name": "Multi-Ball",
+    "description": "Splits the ball into multiple projectiles for increased coverage.",
+    "stats": {
+      "Balls": "3",
+      "Duration": "15 seconds",
+      "Cost": "1500 points"
+    }
+  },
+  {
+    "icon": "🛡️",
+    "name": "Shield",
+    "description": "Protects against ball loss for a limited time.",
+    "stats": {
+      "Protection": "100%",
+      "Duration": "8 seconds",
+      "Cost": "2000 points"
+    }
+  },
+  {
+    "icon": "💎",
+    "name": "Diamond Ball",
+    "description": "Temporarily makes the ball break through any brick in one hit.",
+    "stats": {
+      "Power": "100%",
+      "Duration": "12 seconds",
+      "Cost": "2500 points"
+    }
+  },
+  {
+    "icon": "🎁",
+    "name": "Lucky Drop",
+    "description": "Increases the chance of power-up drops from broken bricks.",
+    "stats": {
+      "Drop Rate": "+30%",
+      "Duration": "20 seconds",
+      "Cost": "1800 points"
+    }
+  }
+]
