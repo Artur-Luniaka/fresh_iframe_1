@@ -1,6 +1,6 @@
 // Load and render features
 async function loadFeatures() {
-  const features = await DataLoader.loadJSON("/json/features.json");
+  const features = await DataLoader.loadJSON("json/features.json");
   if (!features) return;
 
   const container = document.getElementById("features-container");
@@ -19,7 +19,7 @@ async function loadFeatures() {
 
 // Load and render game guide
 async function loadGameGuide() {
-  const guide = await DataLoader.loadJSON("/json/game-guide.json");
+  const guide = await DataLoader.loadJSON("json/game-guide.json");
   if (!guide) return;
 
   const container = document.getElementById("game-guide-container");
@@ -76,7 +76,7 @@ async function loadGameGuide() {
 
 // Load and render reviews
 async function loadReviews() {
-  const reviews = await DataLoader.loadJSON("/json/reviews.json");
+  const reviews = await DataLoader.loadJSON("json/reviews.json");
   if (!reviews) return;
 
   const container = document.getElementById("reviews-container");
@@ -99,7 +99,7 @@ async function loadReviews() {
 
 // Load and render level types
 async function loadLevelTypes() {
-  const levels = await DataLoader.loadJSON("/json/levels.json");
+  const levels = await DataLoader.loadJSON("json/levels.json");
   if (!levels) return;
 
   const container = document.getElementById("levels-container");
@@ -134,7 +134,7 @@ async function loadLevelTypes() {
 
 // Load and render upgrades
 async function loadUpgrades() {
-  const upgrades = await DataLoader.loadJSON("/json/upgrades.json");
+  const upgrades = await DataLoader.loadJSON("json/upgrades.json");
   if (!upgrades) return;
 
   const container = document.getElementById("upgrades-container");

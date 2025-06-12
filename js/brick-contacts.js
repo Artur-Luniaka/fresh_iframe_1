@@ -1,6 +1,6 @@
 // Load and render contact details
 async function loadContactDetails() {
-  const contactInfo = await DataLoader.loadJSON("/json/contact-info.json");
+  const contactInfo = await DataLoader.loadJSON("json/contact-info.json");
   if (!contactInfo) return;
 
   const container = document.getElementById("contact-details-container");

@@ -1,6 +1,6 @@
 // Load and render game updates
 async function loadUpdates() {
-  const updates = await DataLoader.loadJSON("/json/updates.json");
+  const updates = await DataLoader.loadJSON("json/updates.json");
   if (!updates) return;
 
   const container = document.getElementById("updates-container");
@@ -34,7 +34,7 @@ async function loadUpdates() {
 
 // Load and render game news
 async function loadGameNews() {
-  const news = await DataLoader.loadJSON("/json/dev-diaries.json");
+  const news = await DataLoader.loadJSON("json/dev-diaries.json");
   if (!news) return;
 
   const container = document.getElementById("news-container");
