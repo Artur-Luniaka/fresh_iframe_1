@@ -11,7 +11,7 @@ class HeaderFooter {
     header.innerHTML = `
             <nav class="nav">
                 <div class="logo">
-                    <a href="./">Domain.com</a>
+                    <a href="./">OnlinePlayChallenge.com</a>
                 </div>
                 <button class="mobile-menu-btn" aria-label="Toggle menu">
                     <span></span>
@@ -21,7 +21,7 @@ class HeaderFooter {
                 <div class="nav-menu">
                     <a href="./" class="nav-link">Break Box</a>
                     <a href="./#how-to-play" class="nav-link">How to Play</a>
-                    <a href="./brick-log.html" class="nav-link">BreakingNews</a>
+                    <a href="./brick-log.html" class="nav-link">Breaking News</a>
                     <a href="./brick-contacts.html" class="nav-link">Contact Box</a>
                     <a href="./collect-disclaimer.html" class="nav-link">Disclaimer Box</a>
                 </div>
@@ -40,7 +40,7 @@ class HeaderFooter {
                 <div class="footer-content">
                     <div class="footer-main">
                         <div class="footer-contact">
-                            <p>Email: support@domain.com</p>
+                            <p>Email: support@OnlinePlayChallenge.com</p>
                             <p>Phone: +61 999 371 882</p>
                             <p>Location: 10 Spring Street Sydney NSW 2000 Australia</p>
                         </div>
@@ -50,7 +50,7 @@ class HeaderFooter {
                         </div>
                     </div>
                     <div class="footer-copyright">
-                        <p>&copy; ${currentYear} Domain.com | All rights reserved.</p>
+                        <p>&copy; ${currentYear} OnlinePlayChallenge.com | All rights reserved.</p>
                     </div>
                 </div>
             </div>
