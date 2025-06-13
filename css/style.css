@@ -74,6 +74,7 @@ h1 {
 
 h2 {
   font-size: 2rem;
+  text-align: center;
 }
 
 h3 {
@@ -89,7 +90,7 @@ p {
   width: 100%;
   max-width: var(--container-max-width);
   margin: 0 auto;
-  padding: 0 var(--container-padding);
+  padding: 60px var(--container-padding);
 }
 
 /* Buttons */
@@ -299,7 +300,7 @@ p {
 }
 
 .footer-copyright {
-  text-align: right;
+  text-align: center;
   font-size: 0.9rem;
   opacity: 0.8;
   padding-top: var(--spacing-md);
@@ -313,16 +314,16 @@ p {
   }
 
   .container {
-    padding: 0 var(--spacing-xs);
+    padding: 40px var(--spacing-xs);
   }
 
   .game-container {
-    min-height: 350px;
+    min-height: 450px;
   }
 
   .game-container iframe {
-    min-height: 350px;
-    height: 350px;
+    min-height: 450px;
+    height: 450px;
   }
 }
 
